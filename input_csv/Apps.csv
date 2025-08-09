@@ -1,0 +1,181 @@
+Channel;Call;Definition
+IESVC1015;deeplink;/App/com.libertyglobal.app.netflix
+IESVC1015;trigger;autostart_virtualch
+IESVC1015;delay;2
+IESVC1015;channelbound;300
+IESVC1015;applogo;https://staticqbr-preprod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1015_background.png
+IESVC1015;synopsis.en-IE;With Netflix you can instantly stream your favourite TV shows and movies with TV 360. Watch what you want, when you want. No commercials. No hidden fees. No hassle. And you can cancel it anytime.
+IESVC1015;posterlogo;https://staticqbr-preprod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1015_f.png
+IESVC1016;deeplink;/App/com.libertyglobal.app.netflix
+IESVC1016;trigger;autostart_virtualch
+IESVC1016;delay;2
+IESVC1016;channelbound;300
+IESVC1016;applogo;https://staticqbr-preprod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1016_background.png
+IESVC1016;synopsis.en-IE;With Netflix you can instantly stream your favourite TV shows and movies with TV 360. Watch what you want, when you want. No commercials. No hidden fees. No hassle. And you can cancel it anytime.
+IESVC1016;posterlogo;https://staticqbr-preprod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1016_f.png
+IESVC1259;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1259;trigger;autostart
+IESVC1259;delay;0
+IESVC1259;channelbound;IESVC1259
+IESVC1259;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1023;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1023;trigger;autostart
+IESVC1023;delay;0
+IESVC1023;channelbound;IESVC1023
+IESVC1023;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1037;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1037;trigger;autostart
+IESVC1037;delay;0
+IESVC1037;channelbound;IESVC1037
+IESVC1037;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1091;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1091;trigger;autostart
+IESVC1091;delay;0
+IESVC1091;channelbound;IESVC1091
+IESVC1091;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1109;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1109;trigger;autostart
+IESVC1109;delay;0
+IESVC1109;channelbound;IESVC1109
+IESVC1109;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1148;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1148;trigger;autostart
+IESVC1148;delay;0
+IESVC1148;channelbound;IESVC1148
+IESVC1148;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1151;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1151;trigger;autostart
+IESVC1151;delay;0
+IESVC1151;channelbound;IESVC1151
+IESVC1151;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1241;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1241;trigger;autostart
+IESVC1241;delay;0
+IESVC1241;channelbound;IESVC1241
+IESVC1241;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1250;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1250;trigger;autostart
+IESVC1250;delay;0
+IESVC1250;channelbound;IESVC1250
+IESVC1250;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1253;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1253;trigger;autostart
+IESVC1253;delay;0
+IESVC1253;channelbound;IESVC1253
+IESVC1253;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1256;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1256;trigger;autostart
+IESVC1256;delay;0
+IESVC1256;channelbound;IESVC1256
+IESVC1256;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1257;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1257;trigger;autostart
+IESVC1257;delay;0
+IESVC1257;channelbound;IESVC1257
+IESVC1257;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1315;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1315;trigger;autostart
+IESVC1315;delay;0
+IESVC1315;channelbound;IESVC1315
+IESVC1315;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1316;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1316;trigger;autostart
+IESVC1316;delay;0
+IESVC1316;channelbound;IESVC1316
+IESVC1316;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1246;deeplink;/App/com.libertyglobal.app.entitlementDisplay
+IESVC1246;trigger;autostart
+IESVC1246;delay;0
+IESVC1246;channelbound;IESVC1246
+IESVC1246;synopsis.en-IE;App to display B2B Sky DOG
+IESVC1110;deeplink;/App/com.libertyglobal.app.skysportsv2
+IESVC1110;trigger;red
+IESVC1110;toastermessage.en-IE;Sky Sports + TRIGGER_KEY 
+IESVC1110;delay;0
+IESVC1110;displaytime;15
+IESVC1110;repeat;0
+IESVC1110;channelbound;IESVC1037,IESVC1091,IESVC1109,IESVC1148,IESVC1023,IESVC1151,IESVC1110,IESVC1316
+IESVC1289;deeplink;/App/com.libertyglobal.app.all4
+IESVC1289;trigger;red
+IESVC1289;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1289;delay;0
+IESVC1289;displaytime;10
+IESVC1289;repeat;0
+IESVC1289;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1105;deeplink;/App/com.libertyglobal.app.all4
+IESVC1105;trigger;red
+IESVC1105;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1105;delay;0
+IESVC1105;displaytime;10
+IESVC1105;repeat;0
+IESVC1105;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1147;deeplink;/App/com.libertyglobal.app.all4
+IESVC1147;trigger;red
+IESVC1147;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1147;delay;0
+IESVC1147;displaytime;10
+IESVC1147;repeat;0
+IESVC1147;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1163;deeplink;/App/com.libertyglobal.app.all4
+IESVC1163;trigger;red
+IESVC1163;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1163;delay;0
+IESVC1163;displaytime;10
+IESVC1163;repeat;0
+IESVC1163;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1153;deeplink;/App/com.libertyglobal.app.all4
+IESVC1153;trigger;red
+IESVC1153;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1153;delay;0
+IESVC1153;displaytime;10
+IESVC1153;repeat;0
+IESVC1153;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1285;deeplink;/App/com.libertyglobal.app.all4
+IESVC1285;trigger;red
+IESVC1285;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1285;delay;0
+IESVC1285;displaytime;10
+IESVC1285;repeat;0
+IESVC1285;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1159;deeplink;/App/com.libertyglobal.app.all4
+IESVC1159;trigger;red
+IESVC1159;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1159;delay;0
+IESVC1159;displaytime;10
+IESVC1159;repeat;0
+IESVC1159;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1150;deeplink;/App/com.libertyglobal.app.all4
+IESVC1150;trigger;red
+IESVC1150;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1150;delay;0
+IESVC1150;displaytime;10
+IESVC1150;repeat;0
+IESVC1150;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1114;deeplink;/App/com.libertyglobal.app.all4
+IESVC1114;trigger;red
+IESVC1114;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1114;delay;0
+IESVC1114;displaytime;10
+IESVC1114;repeat;0
+IESVC1114;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1149;deeplink;/App/com.libertyglobal.app.all4
+IESVC1149;trigger;red
+IESVC1149;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1149;delay;0
+IESVC1149;displaytime;10
+IESVC1149;repeat;0
+IESVC1149;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1283;deeplink;/App/com.libertyglobal.app.all4
+IESVC1283;trigger;red
+IESVC1283;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1283;delay;0
+IESVC1283;displaytime;10
+IESVC1283;repeat;0
+IESVC1283;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284
+IESVC1284;deeplink;/App/com.libertyglobal.app.all4
+IESVC1284;trigger;red
+IESVC1284;toastermessage.en-IE;Channel4 App TRIGGER_KEY
+IESVC1284;delay;0
+IESVC1284;displaytime;10
+IESVC1284;repeat;0
+IESVC1284;channelbound;IESVC1289,IESVC1105,IESVC1147,IESVC1163,IESVC1153,IESVC1285,IESVC1159,IESVC1150,IESVC1114,IESVC1149,IESVC1283,IESVC1284

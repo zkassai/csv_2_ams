@@ -1,0 +1,4 @@
+﻿ServiceId;AVADEnabled;AVADType;AVADAdSupport;AVADAdCPEPlatform;AVADTargetedAdsOnly;AVADDefaultActiveBreakWindowPollPeriod;AVADAdvertiserProviderId;AVADAdvertiserAssetId;AVADPause;AVADReplayContentAgeStart;AVADReplayContentAgeEnd;AVADnDVRContentAgeStart;AVADnDVRContentAgeEnd
+IESVC1300;1;;linear;APOLLO;1;240000;CP99991300;99991300_IP;;;;;
+IESVC1302;1;;linear;APOLLO;1;240000;CP99991302;99991302_IP;;;;;
+IESVC1239;1;;linear;APOLLO;1;240000;CP99991239;99991239_IP;;;;;

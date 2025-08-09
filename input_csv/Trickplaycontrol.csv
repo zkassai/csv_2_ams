@@ -1,0 +1,7 @@
+ChannelIdProviderKey;ContentType;BreakArea;SCTESegmentationCodes;TrickPlayControlModes;SkipTime;AdCounter
+IESVC1300 ;recordings;allBreaks;none;disallowFastForward,disallowSkipForward;;1
+IESVC1300 ;replay;allBreaks;none;disallowFastForward,disallowSkipForward;;0
+IESVC1300 ;startover;allBreaks;none;disallowFastForward,disallowSkipForward;;0
+IESVC1397 ;recordings;allBreaks;none;disallowFastForward,disallowSkipForward;;1
+IESVC1397 ;replay;allBreaks;none;disallowFastForward,disallowSkipForward;;0
+IESVC1397 ;startover;allBreaks;none;disallowFastForward,disallowSkipForward;;0
